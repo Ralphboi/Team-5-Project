@@ -1,0 +1,10 @@
+**Characters:
+-Mouse, Front
+-Child, Front (Monotone, Gray)
+-White cat, Sided (Snowball) (Monotone, White, "Fluffy")
+-Other cats, Sided (Monotone, Colors: Yellow, Red, Gray, Black) 
+
+**Others:
+-Boats, top view (Monotone, Colors: navy blue, red, yellow, green)
+-Car, top view (Combine colors red and white)
+
