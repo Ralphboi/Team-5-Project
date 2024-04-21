@@ -1,0 +1,33 @@
+*Level 1 - Find Stuart
+You need to find little mouse in horde of kids in orphanage. 
+
+Using keys WASD you need to select within kids. Pressing SPACE button you "grab" the kid and move it by using same moving controls, press SPACE again to let it off. When Stuart is on sight, player should use WASD and press SPACE to "Detect" him.
+
+*Level 2 - Escape Snowball
+Snowball ain't happy, that there is a mouse in the house. He is gonna kill him! Escape somewhere!
+
+Playing as Stuart, you should escape the Snowball through five different stages. On these stages there will be different walls, which Stuart should go through. But there is a catch: Snowball is "immune" to these walls and he can go through them only with 60% of his normal speed.
+
+*Level 3 - Win the Boat Race
+After escaping Snowball, you've got into George's Lair, where you helped him to build the boat. There is a contest, by the way. You gotta hurry and win!
+
+Like the cars game from lecture, but with the boats. AD to move boat left and right. Need to dodge 20 boats.
+
+*Level 4 - Get to the Staut's lair
+Your original parents were found, seems they are alive. Come over and meet them.
+
+It's like the Crossy Road game. 
+
+*Level 5 - Get back home
+It was a Setup! Cats are trying to get you. Escape!
+
+Like the game on third level, but with Car and cats textures and also, cats are faster. 
+
+*Level 6 - Escape the Sewers
+Stuart's car has been crashed into sewers water and cats are really close to ya. Run!
+
+
+
+
+
+
